@@ -37,21 +37,7 @@ namespace MVC_Blog.Controllers
             return View(post);
         }
 
-        [HttpPost]
-        public ActionResult q(string newComment)
-        {
-            if (newComment != null)
-                ViewBag.current++;
-
-            Comment q = db.Comments.Find(ViewBag.current);
-            if (q == null)
-            {
-                db.Comments.Add(q);
-            }
-
-            return View(q);
-        }
-
+        
         // GET: Posts/Create
         [Authorize]
         public ActionResult Create()
@@ -150,6 +136,20 @@ namespace MVC_Blog.Controllers
                 db.Dispose();
             }
             base.Dispose(disposing);
+        }
+
+        [HttpPost]
+        public ActionResult CreateComment([Bind(Include = "Id,Date,Text, Post, Post_Id")] Comment comment, int? Post_Id)
+        {
+            if (ModelState.IsValid)
+            {
+                comment.Post = db.Posts.Single(p => p.Id == Post_Id);
+                db.Comments.Add(comment);
+                db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+
+            return RedirectToAction("Details", new { id=comment.Post_Id });
         }
     }
 }

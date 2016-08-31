@@ -48,10 +48,11 @@
        }
     }
 
-@using (Html.BeginForm())
+@using (Html.BeginForm("CreateComment", "Posts", new { Post_Id = Model.Id }, FormMethod.Post))
 {
     //here is the big ???
-    <textarea rows="4" cols="50" class="add-comments"></textarea><br/>
+
+    <textarea rows="4" cols="50" class="add-comments" name="Text"></textarea><br/>
     <input type="submit" value="Add Comment" class="btn btn-default" />
     
 }

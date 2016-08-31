@@ -19,6 +19,9 @@ namespace MVC_Blog.Models
         [StringLength(500)]
         public string Text { get; set; }
 
+        [StringLength(500)]
+        public string VisitorName { get; set; }
+
         [Required]
         public DateTime Date { get; set; }
 

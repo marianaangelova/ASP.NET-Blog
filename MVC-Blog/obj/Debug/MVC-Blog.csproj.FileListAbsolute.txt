@@ -1,0 +1,163 @@
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\ApplicationInsights.config
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\roslyn\csc.exe
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\roslyn\vbc.exe
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\roslyn\VBCSCompiler.exe
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\MVC-Blog.dll.config
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\MVC-Blog.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\MVC-Blog.pdb
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Antlr3.Runtime.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\EntityFramework.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\EntityFramework.SqlServer.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.AI.Web.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.ApplicationInsights.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.Google.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Newtonsoft.Json.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Owin.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\System.Web.Helpers.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\System.Web.Mvc.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\System.Web.Optimization.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\System.Web.Razor.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\System.Web.WebPages.Deployment.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\System.Web.WebPages.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\System.Web.WebPages.Razor.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\WebGrease.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.AI.Web.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.ApplicationInsights.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\System.Web.Helpers.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\System.Web.Mvc.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\System.Web.Optimization.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\System.Web.Razor.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\System.Web.WebPages.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\System.Web.WebPages.Deployment.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\System.Web.WebPages.Razor.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Antlr3.Runtime.pdb
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Newtonsoft.Json.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\EntityFramework.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\EntityFramework.SqlServer.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.Google.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\obj\Debug\MVC-Blog.dll
+c:\users\mariana\documents\visual studio 2015\Projects\MVC-Blog\MVC-Blog\obj\Debug\MVC-Blog.pdb
+C:\Users\Mariana\Documents\Visual Studio 2015\Projects\MVC-Blog\MVC-Blog\obj\Debug\MVC-Blog.csprojResolveAssemblyReference.cache
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\ApplicationInsights.config
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\roslyn\csc.exe
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\roslyn\System.Collections.Immutable.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\roslyn\System.Reflection.Metadata.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\roslyn\vbc.exe
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\roslyn\VBCSCompiler.exe
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\roslyn\VBCSCompiler.exe.config
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\MVC-Blog.dll.config
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\MVC-Blog.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\MVC-Blog.pdb
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Antlr3.Runtime.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\EntityFramework.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\EntityFramework.SqlServer.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.AI.Agent.Intercept.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.AI.DependencyCollector.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.AI.Web.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.AI.WindowsServer.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.ApplicationInsights.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.AspNet.Identity.Core.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.Cookies.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.Facebook.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.Google.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.OAuth.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.Twitter.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.Web.Infrastructure.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Newtonsoft.Json.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Owin.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\System.Web.Helpers.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\System.Web.Mvc.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\System.Web.Optimization.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\System.Web.Razor.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\System.Web.WebPages.Deployment.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\System.Web.WebPages.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\System.Web.WebPages.Razor.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\WebGrease.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.AI.DependencyCollector.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.AI.Web.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.AI.WindowsServer.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.ApplicationInsights.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\System.Web.Helpers.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\System.Web.Mvc.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\System.Web.Optimization.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\System.Web.Razor.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\System.Web.WebPages.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\System.Web.WebPages.Deployment.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\System.Web.WebPages.Razor.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Antlr3.Runtime.pdb
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Newtonsoft.Json.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\EntityFramework.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\EntityFramework.SqlServer.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.AspNet.Identity.Core.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.Facebook.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.Cookies.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.OAuth.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.Google.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.Twitter.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\obj\Debug\MVC-Blog.dll
+E:\courses\Blog\Spring-MVC-Blog\MVC-Blog\MVC-Blog\obj\Debug\MVC-Blog.pdb

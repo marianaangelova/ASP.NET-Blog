@@ -4,10 +4,10 @@
 
 @model List<MVC_Blog.Models.Post>
 
-<section class="row">
-    @foreach (var post in Model)
+<section class="row post col-md-6">
+    @foreach (var post in Model.Take(3))
     {
-        <article class="post col-md-6">
+        <article>
             <h2 class="title">@post.Title</h2>
             <div class="about">Публикувано
             @if (post.Author != null)
@@ -20,4 +20,29 @@
             <div class="body">@Html.Raw(post.Body)</div>
         </article>
     }
+</section>
+
+<section class="sidebar" style="display: block">
+    <aside>
+        @foreach (var post in Model.Take(5))
+        {
+            <div>
+                <article>
+                    <h2>@post.Title</h2>
+                    <div>
+                        Публикувано
+                        @if (post.Author != null)
+                        {
+                            @:от
+                            <i>@post.Author.FullName (@post.Author.UserName)</i>
+                        }
+                        на <i>@post.Date</i>
+                        @Html.ActionLink("View Post", "Details", "Posts", new { id = post.Id }, null)
+
+                    </div>
+                </article>
+
+            </div>
+        }
+    </aside>
 </section>

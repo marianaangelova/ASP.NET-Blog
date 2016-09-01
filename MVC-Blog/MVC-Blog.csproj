@@ -232,6 +232,7 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Content\fonts\TEXASTANGO EXTRA ROTH PERSONAL USE.ttf" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\fallingsnow_v6.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />

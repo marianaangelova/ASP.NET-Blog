@@ -156,3 +156,11 @@ footer ul li a:hover{
     list-style-type: disc;
     margin:0;
 }
+
+#aboutImg {
+
+    position: absolute;
+    left:35%; 
+    top:40%;
+    
+}

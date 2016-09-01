@@ -139,14 +139,16 @@ namespace MVC_Blog.Controllers
         }
 
         [HttpPost]
-        public ActionResult CreateComment([Bind(Include = "Id,Date,Text, Post, Post_Id")] Comment comment, int? Post_Id)
+        public ActionResult CreateComment([Bind(Include = "Id,Date,Text, VisitorName Post, Post_Id")] Comment comment, int? Post_Id)
         {
             if (ModelState.IsValid)
             {
                 comment.Post = db.Posts.Single(p => p.Id == Post_Id);
+                //comment.VisitorName = db.Comments.Single(c => c.VisitorName == null).ToString();
+
                 db.Comments.Add(comment);
                 db.SaveChanges();
-                return RedirectToAction("Index");
+                return RedirectToAction("Details", new { id = comment.Post_Id });
             }
 
             return RedirectToAction("Details", new { id=comment.Post_Id });

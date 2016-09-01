@@ -216,6 +216,8 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\falling-bananas_stylesheet.css" />
+    <Content Include="Content\img\bananas.png" />
     <Content Include="Content\img\beer.png" />
     <Content Include="Content\img\java.png" />
     <Content Include="Content\img\mini-social-icons.png" />
@@ -231,6 +233,7 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Scripts\fallingsnow_v6.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />

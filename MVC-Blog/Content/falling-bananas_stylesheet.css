@@ -1,0 +1,28 @@
+
+#bananasContainer {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    bottom: 0;
+      right: 0;
+      overflow: auto;
+      background-image: url("img/java.png");
+      background-repeat: repeat-x;
+      background-size:20% 90%;
+      margin-top:5%;
+      margin-bottom:5%;
+}
+
+.snowflake {
+    padding-left: 15px;
+    width: 40px;
+    height: 40px;
+    line-height: 24px;
+    position: fixed;
+    color: #ff0000;
+    user-select: none;
+    z-index: 1000;
+}
+.snowflake:hover {
+    cursor: default;
+}

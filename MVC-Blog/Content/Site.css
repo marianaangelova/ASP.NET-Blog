@@ -174,3 +174,14 @@ footer ul li a:hover{
 .sidebar {
     margin: 15px;
 }
+
+.lastOnPage {
+    margin-top:10%;
+}
+
+.comment {
+    border:1px dashed #151515;
+    padding:20px;
+    border-radius:15px;
+    margin-bottom:20px;
+}

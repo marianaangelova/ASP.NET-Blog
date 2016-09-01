@@ -56,8 +56,8 @@ textarea {
 }
 
 #footer {
-	color: white;
-    background-color:#000000;
+	color: #6B6B6B;
+    background-color:#151515;
 }
 footer ul {
 	font-size: 18px;
@@ -109,6 +109,7 @@ footer ul li a:hover{
 	display: inline-block;
 	border: 1px solid grey;
 	border-radius: 40px;
+    margin-top:25px;
 }
 
 #google {
@@ -118,6 +119,7 @@ footer ul li a:hover{
 	background:  url("img/mini-social-icons.png") -40px 0;
 	border: 1px solid grey;
 	border-radius: 40px;
+    margin-top:25px;
 }
 
 #twitter {
@@ -127,6 +129,7 @@ footer ul li a:hover{
 	display: inline-block;
 	border: 1px solid grey;
 	border-radius: 40px;
+    margin-top:25px;
 }
 
 #facebook:hover {
@@ -163,15 +166,11 @@ footer ul li a:hover{
 }
 
 #aboutImg {
-
     position: absolute;
     left:30%; 
     top:40%;
-    
 }
 
 .sidebar {
-
     margin: 15px;
-  
 }
